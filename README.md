@@ -123,9 +123,9 @@ Update the `rtl_work` library only when the test bench file has been updated. De
 
 ## Bibliography
 
-[1]<a name="omilab"></a>[ Makefileの解説](http://omilab.naist.jp/~mukaigawa/misc/Makefile.html)
-[2]<a name="boysenberrypi"></a>[汎用的に使えそうなMakefileを書いてみた - 落書き以上、技術メモ以下](http://boysenberrypi.hatenadiary.jp/entry/2014/03/15/113703)
-[3]<a name="dir_exits"></a>[ファイルが存在している場合だけ処理する方法, ifでフロー制御 ( GNU Make ) - my notebook blog](https://osima.jp/make-if-file-exists.html)
+[1]<a name="omilab"></a>[ Makefileの解説](http://omilab.naist.jp/~mukaigawa/misc/Makefile.html)  
+[2]<a name="boysenberrypi"></a>[汎用的に使えそうなMakefileを書いてみた - 落書き以上、技術メモ以下](http://boysenberrypi.hatenadiary.jp/entry/2014/03/15/113703)  
+[3]<a name="dir_exits"></a>[ファイルが存在している場合だけ処理する方法, ifでフロー制御 ( GNU Make ) - my notebook blog](https://osima.jp/make-if-file-exists.html)  
 
 ## License
 
